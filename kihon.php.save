@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>基本</title>
+</head>
+<body>
+<?php
+print ("Hello World");
+print "<p>じゃんけんしよ！</p>";print "<img src='boy.gif'>";
+$a=rand();
+print $a;
+?>
+
+
+</body>
+</html>
